@@ -1,3 +1,61 @@
+
+
+# 🔐 Text Encryption Tool
+
+A user-friendly React app to **encrypt and decrypt text** using AES, DES, or RSA algorithms. Ideal for beginners exploring cryptography or developers needing lightweight encryption tools.
+
+---
+
+## 🚀 Features
+
+- 🔄 Encrypt & Decrypt any text
+- 📥 Select algorithm: AES, DES, or RSA
+- 📜 View RSA Public & Private Keys
+- ✨ Built with React + Bootstrap
+- 🧠 See real encrypted values & learn crypto visually
+
+---
+
+## 🧠 Usage
+
+> 📌 **Use this app to:**
+- Learn how encryption algorithms work
+- Encrypt sensitive strings before storing or sharing
+- Decrypt encrypted messages securely
+- Demonstrate cryptographic logic in educational or cybersecurity projects
+
+### 🔧 How to Use the App
+
+1. **Select Algorithm**  
+   Choose either **AES**, **DES**, or **RSA** from the dropdown menu. You’ll also see a note on that algorithm’s strength.
+
+2. **Enter Text**  
+   Type any text you want to encrypt into the input area.
+
+3. **Encrypt** 🔒  
+   Click the **"Encrypt"** button. The encrypted string will be shown below.
+
+4. **Decrypt** 🔓  
+   Click the **"Decrypt"** button to get your original text back.
+
+5. **(Optional - RSA)**  
+   If using RSA, the **Public and Private keys** used for encryption/decryption will also be displayed.
+
+6. **Clear** 🧹  
+   Use the **"Clear"** button to reset the inputs and start fresh.
+
+---
+
+## 📦 Installation
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/your-username/text-encryption-app.git
+cd text-encryption-app
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
